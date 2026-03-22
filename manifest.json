@@ -1,0 +1,16 @@
+{
+  "name": "Waypoint Internal Dashboard",
+  "short_name": "Dashboard",
+  "description": "Business hub — contracts, leads, active users",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#150830",
+  "background_color": "#080318",
+  "icons": [
+    { "src": "/icons/WaypointDashboard-AppIcon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/WaypointDashboard-AppIcon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/WaypointDashboard-AppIcon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "/icons/WaypointDashboard-AppIcon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
